@@ -7,4 +7,5 @@ venv/
 .vscode/*
 *.sqlite3
 *.env
+chromedriver
 
