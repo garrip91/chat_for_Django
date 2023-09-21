@@ -1,0 +1,10 @@
+__pycache__/*
+.pytest_cache/*
+*.pyc
+chat_for_Django_GitHubToken.txt
+venv/
+.git/*
+.vscode/*
+*.sqlite3
+*.env
+
